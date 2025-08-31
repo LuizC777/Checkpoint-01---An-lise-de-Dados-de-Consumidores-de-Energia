@@ -12,7 +12,8 @@ O objetivo é permitir que qualquer pessoa possa abrir e rodar o projeto diretam
 ├── Checkpoint_1_SERS_sem2.ipynb # Notebook com o código do projeto
 
 ├── household_power_consumption.txt # Arquivos de banco de dados 
-    energydata_complete.csv
+
+├── energydata_complete.csv
 
 ├── README.md # Instruções de uso
 
