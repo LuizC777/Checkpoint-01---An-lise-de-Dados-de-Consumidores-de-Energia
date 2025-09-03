@@ -11,6 +11,8 @@ O objetivo é permitir que qualquer pessoa possa abrir e rodar o projeto diretam
 
 ├── Checkpoint_1_SERS_sem2.ipynb # Notebook com o código do projeto
 
+├── cp1_SERS_sem2_parte4.ows # Arquivo do orange com exercícios
+
 ├── household_power_consumption.txt # Arquivo de banco de dados 
 
 ├── energydata_complete.csv # Arquivo de banco de dados 
@@ -34,3 +36,13 @@ Execute todas as células do notebook para rodar o projeto.
 Observações
 Certifique-se de que o arquivo household_power_consumption.txt e energydata_complete.csv estão no mesmo diretório do notebook ou ajuste o caminho no código.
 
+## Como Executar no Orange 3
+
+1. Instale o [Orange 3](https://orangedatamining.com/download/) em seu computador.
+
+2. Abra o Orange 3 e carregue o arquivo do fluxo de trabalho:
+   - `cp1_SERS_sem2_parte4.ows`
+
+3. Certifique-se de que o arquivo de dados utilizado no fluxo (`energydata_complete.csv`) está acessível no mesmo diretório ou ajuste os caminhos nos widgets correspondentes.
+
+4. Execute o fluxo clicando no botão **Play** (▶) no canto superior da interface do Orange.
